@@ -5,7 +5,9 @@
   box-sizing: border-box;
   font-family: "Cormorant Garamond";
 }
-
+body {
+  overflow: hidden;
+}
 .container {
   background: #dfdfdf;
 }
